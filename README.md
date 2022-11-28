@@ -7,7 +7,9 @@
 <img align ="left" width ="47%" src ="https://github-readme-stats.vercel.app/api?username=WickTech&show_icons=true&theme=dracula"/>
 
 <img align ="left" width ="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=WickTech&layout=compact"/>
+
 &nbsp;
+
 <h3 align= "left">Programming Languages</h3>
 
 <img align="left" alt="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -18,7 +20,7 @@
 <img align="left" alt="" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
 <img align="left" alt="" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-<br/>
+&nbsp;
 
 <h3 align= "left">Frameworks, Platforms ,Libraries and Tools</h3>
 
@@ -33,7 +35,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br/>
+&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wicktech&label=Profile%20views&color=0e75b6&style=flat" alt="wicktech" /> </p>
 
