@@ -8,7 +8,7 @@
 
 <img align ="left" width ="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=WickTech&layout=compact"/>
 
-&nbsp;
+<pre></pre>
 
 <h3 align= "left">Programming Languages</h3>
 
