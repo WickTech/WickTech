@@ -53,16 +53,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/wicktech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wicktech" height="30" width="40" /></a>
-  
+<a href="https://dev.to/wicktech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wicktech" height="30" width="40" /></a>
 <a href="https://twitter.com/rishabhverma707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabhverma707" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rishabh-verma-a27020112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishabh-verma-a27020112/" height="30" width="40" /></a>
-
 <a href="https://instagram.com/rishi_musicoholic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi_musicoholic" height="30" width="40" /></a>
-
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wicktech&" alt="wicktech" /></p>
+
 
 <!--
 **WickTech/WickTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
