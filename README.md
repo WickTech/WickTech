@@ -20,7 +20,7 @@
 <img align="left" alt="" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
 <img align="left" alt="" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-&nbsp;
+<pre></pre>
 
 <h3 align= "left">Frameworks, Platforms ,Libraries and Tools</h3>
 
@@ -35,12 +35,12 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-&nbsp;
+<pre></pre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wicktech&label=Profile%20views&color=0e75b6&style=flat" alt="wicktech" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rishabhverma707" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhverma707?logo=twitter&style=for-the-badge" alt="rishabhverma707" /></a> </p>
-
+</pre>
 - 🌱 I’m currently learning **Web3 & DS-ML**
 
 - 📫 How to reach me **rishabhverma707@gmail.com**
@@ -48,9 +48,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/wicktech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wicktech" height="30" width="40" /></a>
+  
 <a href="https://twitter.com/rishabhverma707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabhverma707" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rishabh-verma-a27020112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishabh-verma-a27020112/" height="30" width="40" /></a>
+
 <a href="https://instagram.com/rishi_musicoholic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi_musicoholic" height="30" width="40" /></a>
+
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wicktech&" alt="wicktech" /></p>
