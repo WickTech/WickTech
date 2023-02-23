@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate Web developer from India</h3>
 
+[My Portfolio](https://portfolio-wicktech.vercel.app/)
+
 <img align="center" alt="Coding" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 <img align ="left" width ="47%" src ="https://github-readme-stats.vercel.app/api?username=WickTech&show_icons=true&theme=dracula"/>
