@@ -12,8 +12,6 @@
 <img align ="left" width ="47%" src ="https://github-readme-stats.vercel.app/api?username=WickTech&show_icons=true&theme=dracula"/>
 <img align ="left" width ="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=WickTech&layout=compact"/>
 
----
----
 ## Programming Languages & Tools
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
