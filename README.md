@@ -54,7 +54,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-  [Twitter](https://twitter.com/rishabhverma707)|
+  |[Twitter](https://twitter.com/rishabhverma707)|
   [Linkedin](https://www.linkedin.com/in/rishabh-verma-a27020112)|
   [Scaler](https://www.scaler.com/academy/profile/7e1ff2c96488/)|
   [Codepen](https://codepen.io/wicktech)|
