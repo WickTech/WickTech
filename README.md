@@ -58,6 +58,5 @@
   [Linkedin](https://www.linkedin.com/in/rishabh-verma-a27020112)|
   [Scaler](https://www.scaler.com/academy/profile/7e1ff2c96488/)|
   [Codepen](https://codepen.io/wicktech)|
-  [Discord](Wickpool#3409)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wicktech&" alt="wicktech" /></p>
