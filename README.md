@@ -9,8 +9,10 @@
 <img align ="left" width ="47%" src ="https://github-readme-stats.vercel.app/api?username=WickTech&show_icons=true&theme=dracula"/>
 
 <img align ="left" width ="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=WickTech&layout=compact"/>
-
 <pre></pre>
+
+---
+
 
 <h3 align= "left">Languages</h3>
 
@@ -23,7 +25,9 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<pre></pre>
+
+---
+
 
 <h3 align= "left" >Tools</h3>
 
@@ -42,16 +46,17 @@
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-<pre></pre>
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wicktech&label=Profile%20views&color=0e75b6&style=flat" alt="wicktech" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rishabhverma707" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhverma707?logo=twitter&style=for-the-badge" alt="rishabhverma707" /></a> </p>
-</pre>
+---
 
-- 🌱 I’m currently learning **Web3 & DS-ML**
+- 🌱 I’m currently Intermediate in **Web3 & DS-ML**
 
 - 📫 How to reach me **rishabhverma707@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,21 +68,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wicktech&" alt="wicktech" /></p>
-
-
-<!--
-**WickTech/WickTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
