@@ -8,12 +8,13 @@
 
 <img align="center" alt="Coding" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
+---
 <img align ="left" width ="47%" src ="https://github-readme-stats.vercel.app/api?username=WickTech&show_icons=true&theme=dracula"/>
-
 <img align ="left" width ="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=WickTech&layout=compact"/>
 
 ---
-<h2 align= "left">Programming Languages & Tools </h2>
+---
+## Programming Languages & Tools
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
