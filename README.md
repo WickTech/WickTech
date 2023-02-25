@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishabh Verma</h1>
 
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web developer from India intreseted in Web3, Artistic Design and Game Design.</h3>
 
-*[My Portfolio](https://portfolio-wicktech.vercel.app/)*
+***[My Portfolio](https://portfolio-wicktech.vercel.app/)***
 
-*[Resume](https://drive.google.com/file/d/1BUdsWVTdJXtB9mmqRMtfplcvI8Haxj2B/view?usp=share_link)*
+***[Resume](https://drive.google.com/file/d/1BUdsWVTdJXtB9mmqRMtfplcvI8Haxj2B/view?usp=share_link)***
 
 <img align="center" alt="Coding" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
