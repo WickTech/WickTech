@@ -2,7 +2,9 @@
 
 <h3 align="center">A passionate Web developer from India</h3>
 
-[My Portfolio](https://portfolio-wicktech.vercel.app/)
+*[My Portfolio](https://portfolio-wicktech.vercel.app/)*
+
+*[Resume](https://drive.google.com/file/d/1BUdsWVTdJXtB9mmqRMtfplcvI8Haxj2B/view?usp=share_link)*
 
 <img align="center" alt="Coding" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
@@ -12,7 +14,7 @@
 
 <pre></pre>
 ---
-<h3 align= "left">Languages</h3>
+<h2 align= "left">Languages</h2>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
