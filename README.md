@@ -23,10 +23,12 @@
 
 ---
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=WickTech&show_icons=true&theme=dracula"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WickTech&layout=compact&theme=dracula"/>
+<!-- GitHub Readme Streak Stats also serves a profile-details card -->
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=WickTech&theme=dracula" />
 
-<br clear="both"/>
+<!-- Most-used languages via a different host -->
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WickTech&layout=compact&theme=dracula" />
+
 
 ## 🛠️ Tech Stack
 
