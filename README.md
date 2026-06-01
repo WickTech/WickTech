@@ -22,6 +22,8 @@
 - 📫 Reach me at **rishabhverma707@gmail.com**
 
 ---
+<!-- GitHub Profile views -->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=wicktech&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></p>
 
 <!-- GitHub Readme Streak Stats also serves a profile-details card -->
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=WickTech&theme=dracula" />
@@ -77,8 +79,3 @@
 
 | [Twitter](https://twitter.com/rishabhverma707) | [LinkedIn](https://www.linkedin.com/in/rishabh-verma-a27020112) | [Scaler](https://www.scaler.com/academy/profile/7e1ff2c96488/)|
 
----
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=wicktech&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wicktech&theme=dracula" alt="streak stats" /></p>
