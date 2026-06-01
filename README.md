@@ -74,7 +74,6 @@
 </p>
 
 | [Twitter](https://twitter.com/rishabhverma707) | [LinkedIn](https://www.linkedin.com/in/rishabh-verma-a27020112) | [Scaler](https://www.scaler.com/academy/profile/7e1ff2c96488/)|
-| --- | --- | --- | --- |
 
 ---
 
