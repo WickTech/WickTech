@@ -73,7 +73,7 @@
   <a href="https://twitter.com/rishabhverma707" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhverma707?logo=twitter&style=for-the-badge" alt="rishabhverma707" /></a>
 </p>
 
-| [Twitter](https://twitter.com/rishabhverma707) | [LinkedIn](https://www.linkedin.com/in/rishabh-verma-a27020112) | [Scaler](https://www.scaler.com/academy/profile/7e1ff2c96488/) | [CodePen](https://codepen.io/wicktech) |
+| [Twitter](https://twitter.com/rishabhverma707) | [LinkedIn](https://www.linkedin.com/in/rishabh-verma-a27020112) | [Scaler](https://www.scaler.com/academy/profile/7e1ff2c96488/)|
 | --- | --- | --- | --- |
 
 ---
