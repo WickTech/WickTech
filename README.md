@@ -22,6 +22,16 @@
 - 📫 Reach me at **rishabhverma707@gmail.com**
 
 ---
+
+### 🏗️ Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**nimbus-ai**](https://github.com/WickTech/nimbus-ai) | Full-stack AI SaaS — streaming chat, token-credit billing ledger, auth, Prisma persistence | Next.js 15 · TypeScript · NextAuth v5 · Vercel AI SDK · Prisma |
+| [**lumen-rag**](https://github.com/WickTech/lumen-rag) | Production RAG engine with eval harness — vector search, hybrid reranking, citations, Recall@K / MRR / nDCG | Python · FastAPI · NumPy · Typer |
+| [**autoflow**](https://github.com/WickTech/autoflow) | Pluggable automation pipeline — RSS → filter → deduplicate → LLM summarize → publish on a cron schedule | Python · YAML · GitHub Actions · OpenAI |
+
+---
 <!-- GitHub Profile views -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=wicktech&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></p>
 
@@ -51,6 +61,7 @@
 **Back End & Data**
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -78,4 +89,3 @@
 </p>
 
 | [Twitter](https://twitter.com/rishabhverma707) | [LinkedIn](https://www.linkedin.com/in/rishabh-verma-a27020112) | [Scaler](https://www.scaler.com/academy/profile/7e1ff2c96488/)|
-
