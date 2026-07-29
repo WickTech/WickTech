@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Verma</h1>
 
-<h3 align="center">Full-Stack AI Engineer · AI Automation & Agentic Workflows · 2.8+ yrs shipping production apps · India 🇮🇳</h3>
+<h3 align="center">Full-Stack AI Engineer · AI Automation & Agentic Workflows · 3 yrs shipping production apps · India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://portfolio-wicktech.vercel.app/"><strong>Portfolio</strong></a> ·
+  <a href="https://rishabh-verma.vercel.app/"><strong>Portfolio</strong></a> ·
   <a href="https://drive.google.com/file/d/1Zwz-TScKq3HCdN2e8oIehzOyfYXCy4Js/view?usp=drive_link"><strong>Résumé</strong></a> ·
   <a href="https://www.linkedin.com/in/rishabh-verma-a27020112"><strong>LinkedIn</strong></a>
 </p>
