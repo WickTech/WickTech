@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://rishabh-verma.vercel.app/"><strong>Portfolio</strong></a> ·
-  <a href="https://drive.google.com/file/d/1Zwz-TScKq3HCdN2e8oIehzOyfYXCy4Js/view?usp=drive_link"><strong>Résumé</strong></a> ·
   <a href="https://www.linkedin.com/in/rishabh-verma-a27020112"><strong>LinkedIn</strong></a>
 </p>
 
