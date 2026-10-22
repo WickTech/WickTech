@@ -1,90 +1,64 @@
-<h1 align="center">Hi 👋, I'm Rishabh Verma</h1>
+<h1 align="center">Rishabh Verma</h1>
 
-<h3 align="center">Full-Stack AI Engineer · AI Automation & Agentic Workflows · 3 yrs shipping production apps · India 🇮🇳</h3>
+<h3 align="center">Full-Stack Engineer · Backend & APIs · AI Systems · 3 yrs shipping production software</h3>
 
 <p align="center">
   <a href="https://rishabh-verma.vercel.app/"><strong>Portfolio</strong></a> ·
-  <a href="https://www.linkedin.com/in/rishabh-verma-a27020112"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/rishabh-verma-a27020112"><strong>LinkedIn</strong></a> ·
+  <a href="mailto:rishabhverma707@gmail.com"><strong>Email</strong></a>
 </p>
 
-<img align="center" alt="Coding" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+I build complete products: React/Next.js front ends, typed APIs and services behind them, SQL and NoSQL data layers, and the CI/CD and cloud setup to ship them. At my day job I work on the C#/.NET backend of an enterprise automation product. On my own time I build AI systems (RAG, agents, evaluation) and full-stack SaaS. I ship small, measure it, and iterate.
 
 ---
 
-### 🚀 What I do
-
-- 🧠 Build **full-stack web apps** end to end — React/Next.js front ends, Node.js/TypeScript back ends, SQL & NoSQL data layers.
-- 🤖 Engineer **AI automation** — LLM integrations, RAG pipelines, agentic workflows, and tooling that removes manual work.
-- ⚙️ Ship to production — CI/CD, Docker, and cloud deploys on Vercel & beyond.
-- 🎨 Design-minded, with a background in artistic & game design for polished, human-centered UX.
-- 🌱 Going deeper on **agentic AI, RAG, and Web3**.
-- 📫 Reach me at **rishabhverma707@gmail.com**
-
----
-
-### 🏗️ Featured Projects
+### 🧩 Full-Stack Products
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**nimbus-ai**](https://github.com/WickTech/nimbus-ai) | Full-stack AI SaaS — streaming chat, token-credit billing ledger, auth, Prisma persistence | Next.js 15 · TypeScript · NextAuth v5 · Vercel AI SDK · Prisma |
-| [**lumen-rag**](https://github.com/WickTech/lumen-rag) | Production RAG engine with eval harness — vector search, hybrid reranking, citations, Recall@K / MRR / nDCG | Python · FastAPI · NumPy · Typer |
-| [**autoflow**](https://github.com/WickTech/autoflow) | Pluggable automation pipeline — RSS → filter → deduplicate → LLM summarize → publish on a cron schedule | Python · YAML · GitHub Actions · OpenAI |
+| [**Kalakaarian**](https://kalakaarian.com) | Brand–influencer marketplace PWA that I built as the sole engineer. It has a 48-table schema, a deal-pipeline state machine, JWT rotation and an offline-first service worker | `React` `TypeScript` `PWA` `Node.js` `Express` `Supabase` `Postgres` `Zod` |
+| [**LogiPilot**](https://logipilot-lac.vercel.app) | Self-serve shipping SaaS for small Indian businesses: quote, book, label and track a parcel. It includes a prepaid wallet with Razorpay recharge (signature-verified, no double credits), a zone-based rate engine and a swappable courier-provider interface | `React` `Vite` `Tailwind` `Express` `MongoDB` `Razorpay` `JWT` `Vercel` |
+
+### ⚙️ Backend & APIs
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**nimbus-ai**](https://github.com/WickTech/nimbus-ai) | AI SaaS core with a streaming chat API, a usage-based credit ledger with transactional debits, auth and persistence. CI-gated and Docker-ready | `TypeScript` `Next.js 15` `NextAuth v5` `Prisma` `Postgres` `Vercel AI SDK` |
+| [**RedBot**](https://github.com/WickTech/RedBot) | Reddit keyword auto-responder. It replies exactly once per match (Redis `SET NX`), applies per-user cooldowns, runs on a scheduler and keeps its core logic pure and testable | `TypeScript` `Devvit` `Redis` `Vitest` |
+
+### 🧠 AI / Intelligent Systems
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**lumen-rag**](https://github.com/WickTech/lumen-rag) · [demo](https://huggingface.co/spaces/WickTech/lumen-rag) | Production RAG engine with a built-in evaluation harness. Hybrid BM25 + vector retrieval fused with RRF, citations, Recall@K / MRR / nDCG metrics | `Python` `FastAPI` `pgvector` `OpenTelemetry` `Docker` |
+| [**Axion**](https://github.com/WickTech/axion) | Local mission control for AI coding agents: isolated git worktrees, diff review, approval-gated merges and an audit log | `Next.js 16` `TypeScript` `WebSockets` `node-pty` `Tailwind v4` |
+| [**autoflow**](https://github.com/WickTech/autoflow) | Pluggable content-automation pipeline (RSS → filter → dedupe → LLM summary → publish), declared in YAML and run on a cron | `Python` `YAML` `GitHub Actions` `Docker` |
+| [**stocky**](https://github.com/WickTech/stocky) | Local ML workspace for Indian-equity and forex direction signals. Per-ticker random forests, backtests and an LLM risk-manager co-pilot (educational only) | `Python` `scikit-learn` `pandas` |
+
+### 🎨 Frontend
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Atlas**](https://github.com/WickTech/Atlas) · [live](https://atlas-eight-fawn.vercel.app) | Real-time global situational-awareness console showing country risk, cross-stream signals, markets and news on a GPU-rendered globe, built only on free, keyless open data | `Next.js 16` `React 19` `TypeScript` `MapLibre GL` `deck.gl` `TanStack Query` `Vitest` |
+| [**Skyline**](https://github.com/WickTech/Skyline) · [live](https://skyline-ten-jet.vercel.app) | Weather and air-quality dashboard: search a city once and get current conditions, forecast and AQI | `React` `Vite` `JavaScript` |
+
+### 🚧 Building now: Java & distributed backend
+
+| Project | What it will be | Stack |
+|---|---|---|
+| **walletd** | Double-entry wallet and payments service with idempotency keys, optimistic locking, a transactional outbox and reconciliation jobs | `Java 21` `Spring Boot 3` `PostgreSQL` `Flyway` `Testcontainers` `OpenAPI` |
+| **shipstream** | Event-driven shipment-tracking microservices (order → shipment → tracking → notify) behind an API gateway with rate limiting and circuit breakers | `Java 21` `Spring Boot 3` `Kafka` `Redis` `Spring Cloud Gateway` `Docker` `Kubernetes` |
 
 ---
-<!-- GitHub Profile views -->
+
+### 🛠️ Toolbox
+
+**Languages:** `TypeScript` `JavaScript` `Python` `Java` `C#` `SQL`<br>
+**Frontend:** `React` `Next.js` `Tailwind` `Vite` `PWA`<br>
+**Backend:** `Node.js` `Express` `FastAPI` `Spring Boot` `.NET` `REST` `WebSockets` `JWT/OAuth`<br>
+**Data:** `PostgreSQL` `MongoDB` `Redis` `Prisma` `Supabase` `pgvector`<br>
+**DevOps:** `Docker` `GitHub Actions` `Vercel` `OpenTelemetry`<br>
+**AI:** `RAG` `LLM evaluation` `Agents` `Vercel AI SDK`<br>
+**Automation:** `UiPath` `Automation Anywhere`
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=wicktech&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></p>
-
-<!-- GitHub Readme Streak Stats also serves a profile-details card -->
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=WickTech&theme=dracula" />
-
-<!-- Most-used languages via a different host -->
-<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WickTech&layout=compact&theme=dracula" />
-
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Front End**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-
-**Back End & Data**
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
----
-
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
-  <a href="https://twitter.com/rishabhverma707" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhverma707?logo=twitter&style=for-the-badge" alt="rishabhverma707" /></a>
-</p>
-
-| [Twitter](https://twitter.com/rishabhverma707) | [LinkedIn](https://www.linkedin.com/in/rishabh-verma-a27020112) | [Scaler](https://www.scaler.com/academy/profile/7e1ff2c96488/)|
