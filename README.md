@@ -46,8 +46,8 @@ I build complete products: React/Next.js front ends, typed APIs and services beh
 
 | Project | What it will be | Stack |
 |---|---|---|
-| **walletd** | Double-entry wallet and payments service with idempotency keys, optimistic locking, a transactional outbox and reconciliation jobs | `Java 21` `Spring Boot 3` `PostgreSQL` `Flyway` `Testcontainers` `OpenAPI` |
-| **shipstream** | Event-driven shipment-tracking microservices (order → shipment → tracking → notify) behind an API gateway with rate limiting and circuit breakers | `Java 21` `Spring Boot 3` `Kafka` `Redis` `Spring Cloud Gateway` `Docker` `Kubernetes` |
+| [**walletd**](https://github.com/WickTech/walletd) | Double-entry wallet and payments service with idempotency keys, optimistic locking, a transactional outbox and reconciliation jobs | `Java 25` `Spring Boot 4` `PostgreSQL` `Flyway` `OpenAPI` |
+| **shipstream** | Event-driven shipment-tracking microservices (order → shipment → tracking → notify) behind an API gateway with rate limiting and circuit breakers | `Java 25` `Spring Boot 4` `Kafka` `Redis` `Spring Cloud Gateway` `Docker` `Kubernetes` |
 
 ---
 
