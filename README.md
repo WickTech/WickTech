@@ -8,6 +8,12 @@
   <a href="mailto:rishabhverma707@gmail.com"><strong>Email</strong></a>
 </p>
 
+<p align="center">
+  <img src="assets/coding.gif" alt="Pixel-art animation of a developer coding" width="420" />
+  <br />
+  <sub>Animation by Pixel Jeff on ArtStation</sub>
+</p>
+
 I build complete products: React/Next.js front ends, typed APIs and services behind them, SQL and NoSQL data layers, and the CI/CD and cloud setup to ship them. At my day job I work on the C#/.NET backend of an enterprise automation product. On my own time I build AI systems (RAG, agents, evaluation) and full-stack SaaS. I ship small, measure it, and iterate.
 
 ---
