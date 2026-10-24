@@ -29,6 +29,7 @@ I build complete products: React/Next.js front ends, typed APIs and services beh
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**walletd**](https://github.com/WickTech/walletd) | Double-entry wallet and payments service where the **database refuses to create or lose money** (constraint triggers). Idempotent `Idempotency-Key` API, ordered row locks (20 parallel spends: exactly the affordable ones succeed), HMAC-signed payment webhook credited once per payment, transactional outbox, nightly ledger audit, Prometheus metrics. 46 tests on real Postgres; CI builds the Docker image and runs an end-to-end smoke test | `Java 25` `Spring Boot 4` `PostgreSQL` `Flyway` `JWT` `Testcontainers` `Docker` |
 | [**nimbus-ai**](https://github.com/WickTech/nimbus-ai) | AI SaaS core with a streaming chat API, a usage-based credit ledger with transactional debits, auth and persistence. CI-gated and Docker-ready | `TypeScript` `Next.js 15` `NextAuth v5` `Prisma` `Postgres` `Vercel AI SDK` |
 | [**RedBot**](https://github.com/WickTech/RedBot) | Reddit keyword auto-responder. It replies exactly once per match (Redis `SET NX`), applies per-user cooldowns, runs on a scheduler and keeps its core logic pure and testable | `TypeScript` `Devvit` `Redis` `Vitest` |
 
@@ -48,11 +49,10 @@ I build complete products: React/Next.js front ends, typed APIs and services beh
 | [**Atlas**](https://github.com/WickTech/Atlas) · [live](https://atlas-eight-fawn.vercel.app) | Real-time global situational-awareness console showing country risk, cross-stream signals, markets and news on a GPU-rendered globe, built only on free, keyless open data | `Next.js 16` `React 19` `TypeScript` `MapLibre GL` `deck.gl` `TanStack Query` `Vitest` |
 | [**Skyline**](https://github.com/WickTech/Skyline) · [live](https://skyline-ten-jet.vercel.app) | Weather and air-quality dashboard: search a city once and get current conditions, forecast and AQI | `React` `Vite` `JavaScript` |
 
-### 🚧 Building now: Java & distributed backend
+### 🚧 Next up: distributed backend
 
 | Project | What it will be | Stack |
 |---|---|---|
-| [**walletd**](https://github.com/WickTech/walletd) | Double-entry wallet and payments service with idempotency keys, optimistic locking, a transactional outbox and reconciliation jobs | `Java 25` `Spring Boot 4` `PostgreSQL` `Flyway` `OpenAPI` |
 | **shipstream** | Event-driven shipment-tracking microservices (order → shipment → tracking → notify) behind an API gateway with rate limiting and circuit breakers | `Java 25` `Spring Boot 4` `Kafka` `Redis` `Spring Cloud Gateway` `Docker` `Kubernetes` |
 
 ---
